@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class TrainingnewApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void test1() {
+		System.out.println(" test1 Passed");
 	}
 
 }
