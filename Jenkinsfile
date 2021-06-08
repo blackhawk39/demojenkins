@@ -10,6 +10,8 @@ pipeline {
 	        sh 'mvn clean compile'
 	        sh 'mvn test'
 	        
+	        
+	        
             }
         }
     }
